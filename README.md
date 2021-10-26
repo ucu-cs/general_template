@@ -1,5 +1,5 @@
 # Lab work <mark>NUMBER</mark>: <mark>SHORT TOPIC</mark>
-   Authors: <mark>AUTHORS WITH GITHUB LINKS</mark>
+   Authors: <mark>AUTHORS WITH GITHUB LINKS</mark><br>
    Variant: <mark>VARIANT NUMBER</mark>
 ### Before 
 
